@@ -37,5 +37,5 @@ As visitor, I would like to be able to filter apartments according to price or l
 As a host, I would like to list my apartment so that I could rent it.
 
 - Receive Notifications.
-- 
+  
 As a user, I would like to have booking notifications so that I would be updated.
