@@ -44,5 +44,17 @@ When I am in the building, I would prefer to use my fire alarm in the app to ale
 - SOS Emergency Alert
   
 I would like to use the SOS alert in the app as a resident to be able to seek help fast in case of an emergency.
+
+ -user can order and buy products.
+
+ As a user, I want to order and buy products through the app so that I can easily purchase the items I need.
+
+  -seller can display his products.
+
+  As a seller, I want to list and display my products in the app so that users can see and buy them.
+
+   -user can post and explore the news and posts in the app
+
+   As a user, I want to post and explore news and posts in the app so that I can share information and stay updated.
   
 
