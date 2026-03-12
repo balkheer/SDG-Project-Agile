@@ -70,7 +70,7 @@ Face ID & Fingerprint Login
 
 In my use as a user, I would like to log in with the help of Face ID or fingerprint authentication in order to have access to my account as fast and safe as possible without typing in my password.
 
- -Seller
+ - Seller
 
 seller can display his products.
 
@@ -110,7 +110,7 @@ Review Seller Products
 
 Being an admin, I wish to check on the products postulated by the sellers to ensure that only the right products are shown to the users.
 
-System (Chatbot)
+- System (Chatbot)
 
 Chatbot Assistance
 
