@@ -25,9 +25,9 @@ Being a resident, I would like to get notifications in order to be informed abou
   
 I am a resident who would like to make a maintenance request to be able to specify the problems in my apartment.
 
--  Maintenance Staff Update Status
+-  Admin Update Maintenance Status
 
-Since most of the time I am the maintenance staff, I would like to update the maintenance request status to allow the residents to be informed of the status of their problems.
+Since most of the time I am the Admin, I would like to update the maintenance request status to allow the residents to be informed of the status of their problems.
 
 - Management Send Announcements
 
