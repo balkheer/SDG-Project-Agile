@@ -104,3 +104,8 @@ As a user, I would like to ask questions in a chatbot to receive timely help and
 - Biometric Login
   
 As a user, I would like to have the option of biometric verification to log in my account because then I can easily and safely access the account.
+
+- Face ID & Fingerprint Login
+  
+In my use as a user, I would like to log in with the help of Face ID or fingerprint authentication in order to have access to my account as fast and safe as possible without typing in my password.
+
