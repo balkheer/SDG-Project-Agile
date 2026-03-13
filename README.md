@@ -1,12 +1,18 @@
 # SDG-Project-Agile
 Project Title:  ApartSmart
+
 SDG:   SDG 11: Sustainable Cities and Communities.
+
 Team Members:
 
 1- Lader - Ba Tis Balkhair 0388547  Scrum Master
+
 2-  Bataher Abdulrahman Omar Ashoor 0388251 Testing
+
 3- Alhammad Abdullah Omar A    0389035 UI Designer
+
 4- Abdelrahman Usama 0388809 Prototype Development
+
 5- Areeba 0388778 diagrams
 
 Target Users:
