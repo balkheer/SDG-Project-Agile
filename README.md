@@ -1,7 +1,8 @@
 # SDG-Project-Agile
-Project Title: ApartSmart
-SDG: SDG 11: Sustainable Cities and Communities.
+Project Title:  ApartSmart
+SDG:   SDG 11: Sustainable Cities and Communities.
 Team Members:
+
 1- Lader - Ba Tis Balkhair 0388547  Scrum Master
 2-  Bataher Abdulrahman Omar Ashoor 0388251 Testing
 3- Alhammad Abdullah Omar A    0389035 UI Designer
@@ -25,6 +26,7 @@ Project Description:
 ApartSmart is a smart apartment management mobile application that connects residents with apartment management. The system provides services such as bill payments, maintenance requests, notifications, and emergency alerts to improve communication and efficiency in residential communities.
 
 SDLC Overview:
+
 Planning
 
 Created product vision, backlog, and task breakdown using Trello.
@@ -52,8 +54,13 @@ Adobe XD/ Prototype Tool
 Repository Structure
 
 /planning
+
 /design/Diagrams
+
 /design/sketches
+
 /design/Prototype
+
 /testing
+
 /final
