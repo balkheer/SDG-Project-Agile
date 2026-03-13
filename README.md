@@ -9,6 +9,7 @@ Team Members:
 5- Areeba 0388778 diagrams
 
 Target Users:
+
 The ApartSmart application is designed for individuals involved in apartment communities who need an efficient way to manage residential services. The main target users include:
 
 - Apartment Residents – Residents who want to access apartment services such as paying bills, submitting maintenance requests, receiving notifications, and using emergency alerts through the mobile application.
@@ -20,6 +21,7 @@ The ApartSmart application is designed for individuals involved in apartment com
 The system aims to improve communication and simplify apartment management for all users involved in the apartment community.
 
 Project Description:
+
 ApartSmart is a smart apartment management mobile application that connects residents with apartment management. The system provides services such as bill payments, maintenance requests, notifications, and emergency alerts to improve communication and efficiency in residential communities.
 
 SDLC Overview:
